@@ -1,0 +1,5 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "/bin/gcc",
+  "C_Cpp_Runner.cppCompilerPath": "/bin/g++",
+  "C_Cpp_Runner.makePath": "/bin/make"
+}
